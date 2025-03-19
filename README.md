@@ -1,5 +1,5 @@
-# Topic Modeling & Classification for Unstructured Text
-This repository contains a topic modeling and classification project focusing on Latent Dirichlet Allocation (LDA), Natural Language Processing (NLP), and machine learning techniques. The project explores topic extraction, topic labeling, and evaluation metrics using various approaches, including KNIME, Python, and data-driven techniques.
+# Topic Modeling & Classification for Unstructured Text with KNIME
+This repository contains a topic modeling and classification project focusing on Latent Dirichlet Allocation (LDA), Natural Language Processing (NLP), and machine learning techniques. The project explores topic extraction, topic labeling, and evaluation metrics using various approaches, including KNIME and data-driven techniques.
 
 ## Overview  
 With the rise of unstructured text data, topic modeling plays a crucial role in information retrieval, document classification, and knowledge discovery. This project applies LDA, semantic coherence evaluation, and clustering to analyze and classify topics within text datasets such as tweets, articles, and research papers.
